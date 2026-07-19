@@ -8,6 +8,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Mayankpawar28/Leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Mayankpawar28/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/Mayankpawar28/Leetcode/tree/main/0146-lru-cache/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,6 +17,7 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | [0138-copy-list-with-random-pointer](https://github.com/Mayankpawar28/Leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Mayankpawar28/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Mayankpawar28/Leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/Mayankpawar28/Leetcode/tree/main/0146-lru-cache/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +50,12 @@ A collection of my LeetCode solutions in Java, organized by topic and difficulty
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Mayankpawar28/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Mayankpawar28/Leetcode/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Mayankpawar28/Leetcode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
